@@ -1,0 +1,4 @@
+.env
+config.json
+.submitted
+__pycache__/

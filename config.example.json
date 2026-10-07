@@ -1,0 +1,12 @@
+{
+  "name": "Milton Waddams",
+  "email": "milton.waddams@initech.example",
+  "resume": "https://drive.example.com/milton-waddams-resume.pdf",
+  "location": "Austin, TX, USA",
+  "linkedin": "https://www.linkedin.com/in/milton-waddams-example",
+  "codeLink": "https://github.com/milton-waddams/howgood-application",
+  "yearsPython": 6,
+  "yearsDjango": 2,
+  "repos": "https://github.com/milton-waddams",
+  "notes": "I believe you have my stapler."
+}
