@@ -41,4 +41,4 @@ The tests cover model and settings validation (including `.env` loading and prec
 
 ## Development note
 
-Drafted with Claude Code and reviewed line by line by me.
+Built with Claude Code. I directed the design (Pydantic models, one model per file, settings from the environment) and reviewed and edited the code.
